@@ -13,3 +13,9 @@ def link
   link= "It's Dangerous To Go Alone! Take This."
   puts link
 end
+
+def all_phrases
+  puts phrase
+  puts status
+  puts link
+end
